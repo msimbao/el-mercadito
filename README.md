@@ -76,6 +76,8 @@ Twilio Will greet you with message telling you that you have a trial account. Th
 
 The Video Below Shows this in greater detail.
 
+[Video Call Example](https://drive.google.com/file/d/1_qlhDhVv4N9j8cqz5YM7nRh03cxdx020/view?usp=sharing)
+
 #### Submit A Post Via SMS
 
 To submit a post as a message, simply send a text message to the number
