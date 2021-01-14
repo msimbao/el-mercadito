@@ -1,4 +1,7 @@
 # el-mercadito
+
+<img src="https://cdn.glitch.com/d1bfb408-31f7-459b-bafc-b4ec0e9149e6%2FEl%20Mercadito%20graphic.png?v=1610583846301" width="300" height="300"/>
+
 A Digital Information Marketplace For Alight's Pedacito De La Tierra Shelters. This was a project made during the Mac Explore Challenge where teams were asked to build a possible solution for alights case study on helping families on the move better deal ncreased restrictions at the border.
 
 The front facing part of the project is free to view at: [El-Mercadito](https://el-mercadito.glitch.me/)
@@ -9,7 +12,6 @@ The files contained in the 'files' folder at the top of this repository are all 
 
 Please not that the system can be run entirely using the python scripts without the front website. The site is more of a demo for how Alight could have their own console on their current site to manage and see incoming data.
 
-<img src="https://cdn.glitch.com/d1bfb408-31f7-459b-bafc-b4ec0e9149e6%2FEl%20Mercadito%20graphic.png?v=1610583846301" width="100" height="100"/>
 
 ## Description
 
