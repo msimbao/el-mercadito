@@ -3,6 +3,8 @@ A Digital Information Marketplace For Alight's Pedacito De La Tierra Shelters. T
 
 The front facing part of the project is free to view at: [El-Mercadito](https://el-mercadito.glitch.me/)
 
+![Dashboard](https://github.com/msimbao/el-mercadito/blob/master/screenshots/3.png)
+
 ## Description
 
 Covid 19 and the Migration Protection Protocols have increased the hardships of families on the move, by augmenting immigration procedures’ delays and incertitude, while reducing safe shelters at the Mexican side of the US border.
