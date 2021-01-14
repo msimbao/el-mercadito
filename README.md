@@ -53,7 +53,7 @@ ngrok http 5000
 
 *[Video To connect Code to Twilio API for Recieving Calls](https://www.youtube.com/watch?v=-AChTCBoTUM)
 
-*[Video To connect Code to Twilio API for Recieving Calls](https://www.youtube.com/watch?time_continue=102&v=cZeCz_QOoXw&feature=emb_title)
+*[Video To connect Code to Twilio API for Recieving Messages](https://www.youtube.com/watch?time_continue=102&v=cZeCz_QOoXw&feature=emb_title)
 
 * Launch a Terminal and the recieve_call.py script. Launch another terminal to run the recieve_sms.py script
 
