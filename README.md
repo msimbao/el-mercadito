@@ -92,7 +92,7 @@ N stories
 # Here N stands for the number of stories you want to recieve
 ```
 ![Dashboard](https://github.com/msimbao/el-mercadito/raw/main/Images/5.jpg)
-![Dashboard](https://github.com/msimbao/el-mercadito/raw/main/Images/6.jpg)
+![Dashboard](https://github.com/msimbao/el-mercadito/raw/main/Images/new6.jpg)
 
 #### Submit Feedback
 
