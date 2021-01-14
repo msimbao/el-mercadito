@@ -5,6 +5,11 @@ import requests
 import json
 import urllib2
 
+# Your Account SID from twilio.com/console
+account_sid = "YOUR TWILIO SID"
+# Your Auth Token from twilio.com/console
+auth_token  = "YOUR TWILIO AUTH TOKEN"
+    
 def jprint(obj):
     # create a formatted string of the Python JSON object
     text = json.dumps(obj, sort_keys=True, indent=4)
@@ -12,14 +17,10 @@ def jprint(obj):
 
 def downloadRecording():
     #Function that takes no variables and is used to gather the latest recordings from a Twilio User Account
-
-    # Your Account SID from twilio.com/console
-    account_sid = "ACfe7c37846656feea2c3d334226894859"
-    # Your Auth Token from twilio.com/console
-    auth_token  = "4ef967a5bc820cc04dd70745ef5feed1"
-
+    
+    #Recording URL
     url = "https://api.twilio.com/2010-04-01/Accounts/"+account_sid+"/Recordings.json"
-
+    
     response = requests.get(url, auth=(account_sid, auth_token))
     # jprint(response.json())
 
@@ -50,14 +51,8 @@ def downloadRecording():
 
 def downloadMessage():
     #Function that takes no variables and is used to gather the latest recordings from a Twilio User Account
-
-    # Your Account SID from twilio.com/console
-    account_sid = "ACfe7c37846656feea2c3d334226894859"
-    # Your Auth Token from twilio.com/console
-    auth_token  = "4ef967a5bc820cc04dd70745ef5feed1"
-
-    #https://api.twilio.com/2010-04-01/Accounts/ACfe7c37846656feea2c3d334226894859/Messages.json
-
+    
+    #Messages URL
     url = "https://api.twilio.com/2010-04-01/Accounts/"+account_sid+"/Messages.json"
 
     response = requests.get(url, auth=(account_sid, auth_token))
