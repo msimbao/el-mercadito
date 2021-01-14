@@ -3,7 +3,7 @@ A Digital Information Marketplace For Alight's Pedacito De La Tierra Shelters. T
 
 The front facing part of the project is free to view at: [El-Mercadito](https://el-mercadito.glitch.me/)
 
-![Dashboard](https://github.com/msimbao/el-mercadito/blob/master/screenshots/3.png)
+![Dashboard](https://github.com/msimbao/el-mercadito/blob/master/images/3.png)
 
 ## Description
 
