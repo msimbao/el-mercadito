@@ -12,15 +12,6 @@ The files contained in the 'files' folder at the top of this repository are all 
 
 Please not that the system can be run entirely using the python scripts without the front website. The site is more of a demo for how Alight could have their own console on their current site to manage and see incoming data.
 
-
-## Description
-
-Covid 19 and the Migration Protection Protocols have increased the hardships of families on the move, by augmenting immigration procedures’ delays and incertitude, while reducing safe shelters at the Mexican side of the US border.
-
-Thanks to Alight and their partners such as the Catholic sisters, these vulnerable families are offered the protection they deserve: Pedacito de la Tierra, a place to rest and make decisions, a place to build community and restore their well being.
-
-Building on this existing infrastructure and addressing the practical needs of these families, we are pleased to introduce an empowering platform: El Mercadito, an online and secure market place and message board, where families can share their needs, seek answers and propose their services, and be connected to shelters and support resources both locally and regionally.
-
 ### Measuring Impact
 
 The simple way we tried to measure impact was by directly allowing users to tell us how useful the platform has been for them and what area of their life the information has played a positive role in.
