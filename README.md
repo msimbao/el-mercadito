@@ -22,13 +22,18 @@ We also collect usage statistics based on who needs information and who is offer
 
 These are not perfect metrics but we hope they can give us some light into the impact the platform is having.
 
-These are collected via sms commands explained below.
+These are collected via sms commands explained in the usage section.
+
+![Metrics](https://github.com/msimbao/el-mercadito/raw/main/Images/Screen Shot 2021-01-14 at 10.48.18 AM.png)
+![Metrics](https://github.com/msimbao/el-mercadito/raw/main/Images/Screen Shot 2021-01-14 at 10.48.30 AM.png)
 
 ### Infrastructure
 
 This system was built using Twilio as a communication API and Firebase as a cloud database. Entry is through two pathways, messaging or calling. if you message, you can leave feedback, get latest posts or make a post. If you call, you can make a post as a recording that will be transcribed by a moderator or by the google translate API. Translation is also available for sms messages through the google translate API. 
 
 Below is an image showing the basic infrasturcture of the project, and the firebase and Twilio consoles.
+
+![Dashboard](https://github.com/msimbao/el-mercadito/raw/main/Images/8.png)
 
 ### Dependencies
 
@@ -75,6 +80,8 @@ To submit a post as a message, simply send a text message to the number
 
 It will respond to confirm that your message has been received.
 
+![Dashboard](https://github.com/msimbao/el-mercadito/raw/main/Images/4.png)
+
 #### Get N number of Latest Stories
 
 To Query the database via sms, simply send a text message with the number of stories you want sent to you. The simple command is:
@@ -84,9 +91,10 @@ N stories
 
 # Here N stands for the number of stories you want to recieve
 ```
+![Dashboard](https://github.com/msimbao/el-mercadito/raw/main/Images/5.png)
+![Dashboard](https://github.com/msimbao/el-mercadito/raw/main/Images/6.png)
 
-
-#### Submit Negative Feedback
+#### Submit Feedback
 
 To submit negative feedback, simply sms the command shown below.
 
@@ -95,8 +103,6 @@ not useful
 
 ```
 
-#### Submit Positive Feedback
-
 To submit positive feedback, simply sms the command shown below.
 
 ```
@@ -104,6 +110,8 @@ useful for A
 
 # Where A is an area of your life that you have found useful information for such as education, products or services 
 ```
+
+![Dashboard](https://github.com/msimbao/el-mercadito/raw/main/Images/7.png)
 
 ## Authors
 
