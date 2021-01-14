@@ -27,7 +27,7 @@ These are collected via sms commands explained in the usage section.
 
 ### Infrastructure
 
-This system was built using Twilio as a communication API and Firebase as a cloud database. Entry is through two pathways, messaging or calling. if you message, you can leave feedback, get latest posts or make a post. If you call, you can make a post as a recording that will be transcribed by a moderator or by the google translate API. Translation is also available for sms messages through the google translate API. 
+This system was built using Twilio as a communication API, Firebase as a cloud database and Flask for making a server. Entry is through two pathways, messaging or calling. if you message, you can leave feedback, get latest posts or make a post. If you call, you can make a post as a recording that will be transcribed by a moderator or by the google translate API. Translation is also available for sms messages through the google translate API. 
 
 Below is an image showing the basic infrasturcture of the project, and the firebase and Twilio consoles.
 
@@ -35,8 +35,9 @@ Below is an image showing the basic infrasturcture of the project, and the fireb
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* firebase_admin
+* flask
+* twilio
 
 ### Executing program
 
