@@ -15,7 +15,6 @@ Thanks to Alight and their partners such as the Catholic sisters, these vulnerab
 
 Building on this existing infrastructure and addressing the practical needs of these families, we are pleased to introduce an empowering platform: El Mercadito, an online and secure market place and message board, where families can share their needs, seek answers and propose their services, and be connected to shelters and support resources both locally and regionally.
 
-
 ### Measuring Impact
 
 The simple way we tried to measure impact was by directly allowing users to tell us how useful the platform has been for them and what area of their life the information has played a positive role in.
@@ -26,8 +25,8 @@ These are not perfect metrics but we hope they can give us some light into the i
 
 These are collected via sms commands explained in the usage section.
 
-![Metrics](https://github.com/msimbao/el-mercadito/raw/main/Images/Screen Shot 2021-01-14 at 10.48.18 AM.png)
-![Metrics](https://github.com/msimbao/el-mercadito/raw/main/Images/Screen Shot 2021-01-14 at 10.48.30 AM.png)
+![Metrics](https://github.com/msimbao/el-mercadito/raw/main/Images/a.png)
+![Metrics](https://github.com/msimbao/el-mercadito/raw/main/Images/b.png)
 
 ### Infrastructure
 
