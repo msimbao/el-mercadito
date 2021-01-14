@@ -115,12 +115,12 @@ useful for A
 
 ## Authors
 
-Contributors 
+Team 
 
-Ama Kyereme 
-Zoey Pham
-Alessandra Rosa Policarpo
-Mphatso Simbao
+* Ama Kyereme 
+* Zoey Pham
+* Alessandra Rosa Policarpo
+* Mphatso Simbao
 
 ## Acknowledgments
 
