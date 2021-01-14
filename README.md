@@ -22,7 +22,7 @@ These are not perfect metrics but we hope they can give us some light into the i
 
 These are collected via sms commands explained below.
 
-### Infrustructure
+### Infrastructure
 
 This system was built using Twilio as a communication API and Firebase as a cloud database. Entry is through two pathways, messaging or calling. if you message, you can leave feedback, get latest posts or make a post. If you call, you can make a post as a recording that will be transcribed by a moderator or by the google translate API. Translation is also available for sms messages through the google translate API. 
 
