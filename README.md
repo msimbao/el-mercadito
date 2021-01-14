@@ -80,7 +80,7 @@ To submit a post as a message, simply send a text message to the number
 
 It will respond to confirm that your message has been received.
 
-![Dashboard](https://github.com/msimbao/el-mercadito/raw/main/Images/4.png)
+![Dashboard](https://github.com/msimbao/el-mercadito/raw/main/Images/4.jpg)
 
 #### Get N number of Latest Stories
 
@@ -91,8 +91,8 @@ N stories
 
 # Here N stands for the number of stories you want to recieve
 ```
-![Dashboard](https://github.com/msimbao/el-mercadito/raw/main/Images/5.png)
-![Dashboard](https://github.com/msimbao/el-mercadito/raw/main/Images/6.png)
+![Dashboard](https://github.com/msimbao/el-mercadito/raw/main/Images/5.jpg)
+![Dashboard](https://github.com/msimbao/el-mercadito/raw/main/Images/6.jpg)
 
 #### Submit Feedback
 
@@ -111,7 +111,7 @@ useful for A
 # Where A is an area of your life that you have found useful information for such as education, products or services 
 ```
 
-![Dashboard](https://github.com/msimbao/el-mercadito/raw/main/Images/7.png)
+![Dashboard](https://github.com/msimbao/el-mercadito/raw/main/Images/7.jpg)
 
 ## Authors
 
