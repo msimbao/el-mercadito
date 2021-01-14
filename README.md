@@ -5,6 +5,10 @@ The front facing part of the project is free to view at: [El-Mercadito](https://
 
 The Final Team Presentation is available to view here: [Team Presentation](https://drive.google.com/file/d/1Ua0eb7xrdso2DxTQuf0efCekHtPOofcD/view)
 
+The files contained in the 'files' folder at the top of this repository are all python scripts to support the call program. If you want to look at the Javascript code for the front facing site, it can be found here: [Front Code](https://glitch.com/edit/#!/el-mercadito)
+
+Please not that the system can be run entirely using the python scripts without the front website. The site is more of a demo for how Alight could have their own console on their current site to manage and see incoming data.
+
 <img src="https://cdn.glitch.com/d1bfb408-31f7-459b-bafc-b4ec0e9149e6%2FEl%20Mercadito%20graphic.png?v=1610583846301" width="100" height="100"/>
 
 ## Description
